@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "73743153352",
+    "project_id": "image-labeling-ec42e",
+    "storage_bucket": "image-labeling-ec42e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73743153352:android:b726ddc5ea4ba60a48cdfd",
+        "android_client_info": {
+          "package_name": "com.jessicathornsby.mlkitimagelabelling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73743153352-qsg0u60odbp6aa7mrp0p1j54bv2ab9m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG63sLjONuYSqDTvEZTeuTB6s7lomql7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73743153352-qsg0u60odbp6aa7mrp0p1j54bv2ab9m7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
